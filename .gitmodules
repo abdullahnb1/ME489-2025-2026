@@ -1,3 +1,6 @@
 [submodule "hw/assgn_1/assignment-1-group-6"]
 	path = hw/assgn_1/assignment-1-group-6
 	url = git@github.com:METU-ME489/assignment-1-group-6.git
+[submodule "lecture_codes/lectureCodes"]
+	path = lecture_codes/lectureCodes
+	url = git@github.com:METU-ME489/lectureCodes.git
