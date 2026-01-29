@@ -4,3 +4,9 @@
 [submodule "lecture_codes/lectureCodes"]
 	path = lecture_codes/lectureCodes
 	url = git@github.com:METU-ME489/lectureCodes.git
+[submodule "hw/assgn_3/assignment-3-group18"]
+	path = hw/assgn_3/assignment-3-group18
+	url = git@github.com:METU-ME489/assignment-3-group18.git
+[submodule "assignment-2-group18"]
+	path = assignment-2-group18
+	url = git@github.com:METU-ME489/assignment-2-group18.git
